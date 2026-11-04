@@ -1,0 +1,12 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Vehicle data: real captures can contain GPS positions and VIN, outputs are generated
+*.csv
+
+# Kept local only
+tests/
+examples/
